@@ -1,0 +1,20 @@
+{
+  "model_name": "svm",
+  "model_type": "SVC",
+  "training_history": [
+    {
+      "model_name": "svm",
+      "best_params": {
+        "C": 1,
+        "gamma": 0.1,
+        "kernel": "poly"
+      },
+      "cv_mean_score": 0.935132075471698,
+      "cv_std_score": 0.022134204869314538,
+      "best_cv_score": 0.943,
+      "training_time": 5.468754529953003,
+      "cv_folds": 5,
+      "scoring_metric": "f1"
+    }
+  ]
+}
